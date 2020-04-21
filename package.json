@@ -1,0 +1,21 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^3.4.1",
+    "nodemon": "^2.0.3",
+    "react": "^16.13.1",
+    "react-native": "^0.62.2",
+    "react-simple-chatbot": "^0.6.1",
+    "robo": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
